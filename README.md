@@ -33,9 +33,6 @@ http://localhost:3000
 
 
 📁 Project Structure
-bash
-Copy
-Edit
 src/
 ├── App.jsx        # Main React component
 ├── App.css        # Styling for the game
