@@ -33,6 +33,7 @@ http://localhost:3000
 
 
 📁 Project Structure
+
 src/
 ├── App.jsx        # Main React component
 ├── App.css        # Styling for the game
