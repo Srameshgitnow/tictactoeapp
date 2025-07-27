@@ -16,7 +16,7 @@ Play with a friend and see who gets three in a row first!
 🛠️ How to Run
 1. Clone this repo:
 
-git clone https://github.com/your-username/tic-tac-toe-react.git
+git clone https://github.com/Srameshgitnow/tictactoeapp.git
 cd tic-tac-toe-react
 
 2. Install dependencies:
